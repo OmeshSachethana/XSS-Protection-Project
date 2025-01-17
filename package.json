@@ -16,5 +16,10 @@
     "url": "https://github.com/OmeshSachethana/XSS-Protection-Project/issues"
   },
   "homepage": "https://github.com/OmeshSachethana/XSS-Protection-Project#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dompurify": "^3.2.3",
+    "express": "^4.21.2",
+    "jsdom": "^26.0.0"
+  }
 }
